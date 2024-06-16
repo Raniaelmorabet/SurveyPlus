@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74bfb228-84d1-4def-a423-8d02bead66d5" name="Changes" comment="Fixing the CHART Color for the countries">
+      <change afterPath="$PROJECT_DIR$/src/Assets/AboutUs-images/Faty.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/AboutUs-images/aiman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/AboutUs-images/souhaib.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Organismes/WhoWeAre.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Organismes/WhoWeAre.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gBNcwVEMpIFVujk99TkGMEgSAe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.App.jsx.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Assets/AboutUs-images" />
+      <recent name="$PROJECT_DIR$/src/Assets/NavBar-images" />
+      <recent name="$PROJECT_DIR$/src/Style" />
+      <recent name="$PROJECT_DIR$/src/assets/AboutUs-images" />
+      <recent name="$PROJECT_DIR$/src/Components/Atoms" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74bfb228-84d1-4def-a423-8d02bead66d5" name="Changes" comment="" />
+      <created>1715167094413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715167094413</updated>
+      <workItem from="1715167124585" duration="37536000" />
+      <workItem from="1715329641336" duration="28000" />
+      <workItem from="1715329936538" duration="11056000" />
+      <workItem from="1715348547417" duration="52170000" />
+      <workItem from="1715582273004" duration="970000" />
+      <workItem from="1715605111705" duration="2487000" />
+      <workItem from="1715676654503" duration="21000" />
+      <workItem from="1715702629404" duration="12769000" />
+      <workItem from="1715780196288" duration="2050000" />
+      <workItem from="1715841201251" duration="490000" />
+      <workItem from="1715849890296" duration="25000" />
+      <workItem from="1715850024694" duration="59000" />
+      <workItem from="1715850114275" duration="63000" />
+      <workItem from="1715857884710" duration="40000" />
+      <workItem from="1715890838384" duration="295000" />
+      <workItem from="1715892514942" duration="28000" />
+      <workItem from="1715932983254" duration="6902000" />
+      <workItem from="1716066902941" duration="247000" />
+      <workItem from="1716067658869" duration="4718000" />
+      <workItem from="1716154076753" duration="9528000" />
+      <workItem from="1716247107457" duration="136000" />
+      <workItem from="1716279370386" duration="7741000" />
+      <workItem from="1716474943710" duration="3574000" />
+      <workItem from="1716643745611" duration="7560000" />
+      <workItem from="1716844751585" duration="385000" />
+      <workItem from="1716929371164" duration="2101000" />
+      <workItem from="1716939779083" duration="10859000" />
+      <workItem from="1717081672857" duration="458000" />
+      <workItem from="1717088378695" duration="3596000" />
+      <workItem from="1718187572645" duration="2235000" />
+    </task>
+    <task id="LOCAL-00027" summary="Retouching the Design">
+      <option name="closed" value="true" />
+      <created>1715444118123</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715444118123</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Contact Form">
+      <option name="closed" value="true" />
+      <created>1715444146887</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715444146887</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Fixing the margin Y of the Response Card">
+      <option name="closed" value="true" />
+      <created>1715445549072</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1715445549072</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fixing the margin">
+      <option name="closed" value="true" />
+      <created>1715447977854</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1715447977854</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Fixing the Padding">
+      <option name="closed" value="true" />
+      <created>1715448213909</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1715448213909</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Designing charts">
+      <option name="closed" value="true" />
+      <created>1715459907442</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1715459907442</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fixing Color">
+      <option name="closed" value="true" />
+      <created>1715460567999</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1715460567999</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update">
+      <option name="closed" value="true" />
+      <created>1715460887711</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1715460887711</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update">
+      <option name="closed" value="true" />
+      <created>1715461264835</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1715461264835</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Designing Create Survey">
+      <option name="closed" value="true" />
+      <created>1715524142431</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1715524142431</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Webkit elipsis of the Paragraphs">
+      <option name="closed" value="true" />
+      <created>1715525349586</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1715525349586</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Alert Edit">
+      <option name="closed" value="true" />
+      <created>1715528202297</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1715528202297</updated>
+    </task>
+    <task id="LOCAL-00039" summary="User Information">
+      <option name="closed" value="true" />
+      <created>1715555691842</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1715555691842</updated>
+    </task>
+    <task id="LOCAL-00040" summary="User Information State">
+      <option name="closed" value="true" />
+      <created>1715556636740</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1715556636740</updated>
+    </task>
+    <task id="LOCAL-00041" summary="update">
+      <option name="closed" value="true" />
+      <created>1715608842281</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1715608842281</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update">
+      <option name="closed" value="true" />
+      <created>1715890867715</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1715890867715</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Delete Btn">
+      <option name="closed" value="true" />
+      <created>1715935448040</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1715935448040</updated>
+    </task>
+    <task id="LOCAL-00044" summary="About Design Update">
+      <option name="closed" value="true" />
+      <created>1716073367000</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1716073367000</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Question Card fixing Bug">
+      <option name="closed" value="true" />
+      <created>1716214718413</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1716214718413</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Cards height">
+      <option name="closed" value="true" />
+      <created>1716240438242</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1716240438242</updated>
+    </task>
+    <task id="LOCAL-00047" summary="About Section">
+      <option name="closed" value="true" />
+      <created>1716242908862</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1716242908862</updated>
+    </task>
+    <task id="LOCAL-00048" summary="About Section Edit">
+      <option name="closed" value="true" />
+      <created>1716244073890</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1716244073890</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Vite config">
+      <option name="closed" value="true" />
+      <created>1716245923524</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1716245923524</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Bug fixed">
+      <option name="closed" value="true" />
+      <created>1716280220606</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1716280220606</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Bug fixed">
+      <option name="closed" value="true" />
+      <created>1716280287946</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1716280287946</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Vite config">
+      <option name="closed" value="true" />
+      <created>1716280468410</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1716280468410</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Deployment fixes">
+      <option name="closed" value="true" />
+      <created>1716283567620</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1716283567620</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Set up The project Environment and Installing dependencies">
+      <option name="closed" value="true" />
+      <created>1716670298897</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1716670298897</updated>
+    </task>
+    <task id="LOCAL-00055" summary="NavBar Design and Setupping the Route">
+      <option name="closed" value="true" />
+      <created>1716670963265</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1716670963265</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Reusable Loader Component">
+      <option name="closed" value="true" />
+      <created>1716728868949</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1716728868949</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Design Of a single Home Card">
+      <option name="closed" value="true" />
+      <created>1716728906934</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1716728906934</updated>
+    </task>
+    <task id="LOCAL-00058" summary="a card Gallery where we map over the card component">
+      <option name="closed" value="true" />
+      <created>1716728938759</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1716728938759</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Home component that has the cardGallery component">
+      <option name="closed" value="true" />
+      <created>1716728956489</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1716728956489</updated>
+    </task>
+    <task id="LOCAL-00060" summary="reusable components">
+      <option name="closed" value="true" />
+      <created>1716729723444</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1716729723444</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Fixing DarkMode">
+      <option name="closed" value="true" />
+      <created>1716891159581</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1716891159582</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Fixing The Import Error">
+      <option name="closed" value="true" />
+      <created>1716891176422</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1716891176422</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Adjusting Response Design">
+      <option name="closed" value="true" />
+      <created>1716894936447</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1716894936447</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Adjusting Response Design">
+      <option name="closed" value="true" />
+      <created>1716895555320</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1716895555320</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Fixing Bug">
+      <option name="closed" value="true" />
+      <created>1716911846215</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1716911846216</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Fixing Create Survey Submit">
+      <option name="closed" value="true" />
+      <created>1716937652801</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1716937652801</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Handling Errors added">
+      <option name="closed" value="true" />
+      <created>1716937958951</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1716937958951</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Resting the image after submitting">
+      <option name="closed" value="true" />
+      <created>1716938147382</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1716938147382</updated>
+    </task>
+    <task id="LOCAL-00069" summary="changed importation">
+      <option name="closed" value="true" />
+      <created>1716982896992</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1716982896992</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Vite Config">
+      <option name="closed" value="true" />
+      <created>1716983079572</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1716983079572</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Fixing Bug">
+      <option name="closed" value="true" />
+      <created>1716983103905</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1716983103905</updated>
+    </task>
+    <task id="LOCAL-00072" summary="bug related to the creating of surveys">
+      <option name="closed" value="true" />
+      <created>1716983127083</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1716983127083</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Fixing the CHART Color for the ages">
+      <option name="closed" value="true" />
+      <created>1717094408218</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1717094408218</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Fixing the CHART Color for the countries">
+      <option name="closed" value="true" />
+      <created>1717094415018</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1717094415018</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Fixing the CHART Color for the countries">
+      <option name="closed" value="true" />
+      <created>1717094422259</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1717094422259</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Cards height" />
+    <MESSAGE value="About Section" />
+    <MESSAGE value="About Section Edit" />
+    <MESSAGE value="Bug fixed" />
+    <MESSAGE value="Vite config" />
+    <MESSAGE value="Deployment fixes" />
+    <MESSAGE value="Set up The project Environment and Installing dependencies" />
+    <MESSAGE value="NavBar Design and Setupping the Route" />
+    <MESSAGE value="Reusable Loader Component" />
+    <MESSAGE value="Design Of a single Home Card" />
+    <MESSAGE value="a card Gallery where we map over the card component" />
+    <MESSAGE value="Home component that has the cardGallery component" />
+    <MESSAGE value="reusable components" />
+    <MESSAGE value="Fixing DarkMode" />
+    <MESSAGE value="Fixing The Import Error" />
+    <MESSAGE value="Adjusting Response Design" />
+    <MESSAGE value="Fixing Create Survey Submit" />
+    <MESSAGE value="Handling Errors added" />
+    <MESSAGE value="Resting the image after submitting" />
+    <MESSAGE value="changed importation" />
+    <MESSAGE value="Vite Config" />
+    <MESSAGE value="Fixing Bug" />
+    <MESSAGE value="bug related to the creating of surveys" />
+    <MESSAGE value="Fixing the CHART Color for the ages" />
+    <MESSAGE value="Fixing the CHART Color for the countries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing the CHART Color for the countries" />
+  </component>
+  <component name="WfRunsListSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "branch": "main",
+      "currentBranchFilter": true
+    }
+  ],
+  "lastFilter": {
+    "branch": "main",
+    "currentBranchFilter": true
+  }
+}]]></component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Components/Molecules/Cards.jsx</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

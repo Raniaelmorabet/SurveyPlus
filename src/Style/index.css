@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    height: 100%;
+}
+body {
+    position: relative;
+    margin: 0;
+    min-height: 100%;
+    padding-bottom: 40rem;
+}
+/* NavBar UL Styling*/
+nav ul a:before,
+nav ul .active:before {
+    content: "";
+    height: 2px;
+    width: 0;
+    position: absolute;
+    top: 78px;
+    background-color: #042B29;
+    color: #042B29;
+    transition-duration: 0.6s;
+}
+nav ul #home:hover:before,
+nav ul #home.active:before {
+    width: 50px;
+}
+nav ul #About:hover:before,
+nav ul #About.active:before {
+    width: 50px;
+    color: #042B29;
+}
+nav ul #home.active,
+nav ul #About.active,
+nav ul #contact.active
+{
+    color: #042B29;
+}
+nav ul #home:hover,
+nav ul #About:hover,
+nav ul #contact:hover
+{
+    color: #042B29;
+}
+nav ul #contact:hover:before,
+nav ul #contact.active:before {
+    width: 63px;
+}
+/*Responsiveness of the cards*/
+@media (max-width: 1440px) {
+    #Card--Gallery {
+        padding-right: 120px;
+        padding-left: 120px;
+        justify-content: center;
+    }
+}
+@media (max-width: 1630px) {
+    #Card--Gallery {
+        padding: 0 0;
+    }
+}
+@media (max-width: 1406px) {
+    #card--container {
+        max-width: 400px;
+    }
+    #Card--Gallery {
+        row-gap: 550px;
+        justify-content: center;
+    }
+}
+@media (max-width: 1294px) {
+    #card--container {
+        max-width: 500px;
+    }
+    #Card--Gallery {
+        row-gap: 650px;
+        padding-bottom: 60px;
+        justify-content: center;
+    }
+}
+@media (max-width: 1971px){
+    #Card--Gallery {
+        padding-bottom: 60px;
+        justify-content: center;
+    }
+}
+@media (max-width: 320px) {
+    #Card--Gallery {
+        row-gap: 470px;
+        justify-content: center;
+        padding-bottom: 60px;
+
+    }
+}
+@media (max-width: 383px) {
+    #Card--Gallery {
+        row-gap: 500px;
+        justify-content: center;
+        padding-bottom: 60px;
+    }
+}
+@media (max-width: 1061px) {
+    #card--container {
+        max-width: 400px;
+    }
+    #Card--Gallery {
+        row-gap: 550px;
+        padding-bottom: 60px;
+        justify-content: center;
+    }
+}
+/* Responsive contact */
+@media (max-width: 1093px) {
+    #Card-Container {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+}
+@layer utilities {
+    .line-clamp-2 {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        -webkit-line-clamp: 1;
+        text-overflow: ellipsis;
+    }
+}

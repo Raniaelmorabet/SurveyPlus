@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "image": "URL",
+      "man": 0,
+      "woman": 0,
+      "ageRange": {
+        "0-15": 0,
+        "16-20": 0,
+        "21-35": 0,
+        "36-50": 0,
+        "51-70": 0
+      },
+      "Country": {
+        "America": 0,
+        "Africa": 0,
+        "Asia": 0,
+        "Australia": 0,
+        "Europe": 0
+      },
+      "title": "SurveyTitle",
+      "description": "SurveyDescription",
+      "questions": [
+        {
+          "id": 1,
+          "title": "QuestionName",
+          "options": [
+            {"id ": 10 , "name": "OptionNameOne", "checked": 0 },
+            { "name": "OptionNameTwo", "checked": 0 },
+            { "name": "OptionNameThree", "checked": 0 }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "QuestionName",
+          "options": [
+            { "name": "OptionNameOne", "checked": 0 },
+            { "name": "OptionNameTwo", "checked": 0 },
+            { "name": "OptionNameThree", "checked": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "image": "URL",
+      "man": 0,
+      "woman": 0,
+      "ageRange": {
+        "0-15": 0,
+        "16-20": 0,
+        "21-35": 0,
+        "36-50": 0,
+        "51-70": 0
+      },
+      "Country": {
+        "America": 0,
+        "Africa": 0,
+        "Asia": 0,
+        "Australia": 0,
+        "Europe": 0
+      },
+      "title": "SurveyTitle",
+      "description": "SurveyDescription",
+      "questions": [
+        {
+          "id": 1,
+          "title": "QuestionName",
+          "options": [
+            { "name": "OptionNameOne", "checked": 0 },
+            { "name": "OptionNameTwo", "checked": 0 },
+            { "name": "OptionNameThree", "checked": 0 }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "QuestionName",
+          "options": [
+            { "name": "OptionNameOne", "checked": 0 },
+            { "name": "OptionNameTwo", "checked": 0 },
+            { "name": "OptionNameThree", "checked": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+  
